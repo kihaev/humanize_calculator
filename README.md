@@ -1,1 +1,1 @@
-# humanize_calculator
+Print human recognition of input of the calculator
